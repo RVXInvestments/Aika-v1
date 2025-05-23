@@ -157,7 +157,7 @@ tf-playwright-stealth==1.1.0
 tiktoken==0.8.0
 tokenizers==0.21.0
 toml==0.10.2
-tornado==6.4.2
+tornado==6.5.1
 tqdm==4.67.1
 typer==0.15.1
 types-requests==2.32.0.20241016
